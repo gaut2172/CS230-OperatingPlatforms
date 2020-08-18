@@ -1,4 +1,4 @@
-# CS-230 - SOFTWARE DESIGN DOCUMENT
+# SOFTWARE DESIGN DOCUMENT (CS-230)
 
 # The Client:
 The Gaming Room is a hypothetical game developer. The company had an Android-based game application called Draw It or Lose It. To improve customer accessibility, The Gaming Room wished to develop a web-based version of the Android app. The web-based version was to serve multiple platforms including traditional desktop operating systems (Windows, Linux, MacOS) using popular browsers, as well as iOS.
