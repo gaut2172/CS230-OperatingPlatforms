@@ -14,7 +14,7 @@ I realize that the executive summary in design documents do not have to be exten
 
 # How did I interpret user's needs?
 
-Some of the requirements were easy to implement into the design of the software, while others were required some critical thinking. The game needed the ability to have one or more teams involved, so a client-server architecture was obvious. A user on the Android or iOS platform should be able to play with a user on a desktop browser. In addition, the app needed to be responsive in a time-based game format. For these reasons, a RESTful API was recommended. It’s important to consider the user’s requirements/needs during the designing process so the product is delivered with the most value.
+Some of the requirements were easy to implement into the design of the software, while others required critical thinking. The game needed the ability to have one or more teams involved, so a client-server architecture was obvious. A user on the Android or iOS platform should be able to play with a user on a desktop browser. In addition, the app needed to be responsive in a time-based game format. For these reasons, a RESTful API was recommended. It’s important to consider the user’s requirements/needs during the designing process so the product is delivered with the most value.
 
 # How did I approach designing software?
 
